@@ -14,3 +14,5 @@
 MD5 和 字节数 是必须的<br>
 
 ![示例](https://github.com/drenull/123Pan_Upload/blob/main/images.jpg)
+
+![结果](https://github.com/drenull/123Pan_Upload/blob/main/outcome.png)
